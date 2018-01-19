@@ -1,3 +1,5 @@
+#!/bin/bash
+
 DATAPATH=$1
 shift
 PARTITIONS=$1
